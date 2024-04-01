@@ -6,4 +6,4 @@ eleventyNavigation:
 ---
 # About Me
 
-I am a person that writes stuff.
+My name is Greg Bigelow. I'm currently living in Asheville, North Carolina.
